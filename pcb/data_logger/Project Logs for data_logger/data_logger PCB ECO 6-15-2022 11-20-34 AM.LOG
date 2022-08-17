@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=R33-2
+Removed Pin From Net: NetName=+5 Pin=R66-2
+Removed Member From Class: ClassName=8_channels Member=R33
+Removed Member From Class: ClassName=8_channels Member=R66
+Added Pin To Net: NetName=2.5 Pin=ADG1-2
+Added Pin To Net: NetName=2.5 Pin=ADG2-2

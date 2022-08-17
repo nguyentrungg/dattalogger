@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=OCS_OUT Pin=C?-1
+Removed Pin From Net: NetName=NetBT?_1 Pin=C?-2
+Added Component: Designator=C?(C_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "CAP CER 18PF 50V C0G/NP0 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1885C1H180JA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "CAP CER 18PF 50V C0G/NP0 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1200-000093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1885C1H180JA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Added Component: Designator=X?(XTAL_SMD_3P5)
+Add component (AddParameter): Name = "Description SEL"; Value = "CRYSTAL 8.0000MHZ SURFACE MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1600-000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "WTL5G11651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=OCS_IN Pin=C?-1
+Added Pin To Net: NetName=OCS_OUT Pin=C?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=C?-2
+Added Pin To Net: NetName=right Pin=C?-2
+Added Pin To Net: NetName=OCS_OUT Pin=X?-1
+Added Pin To Net: NetName=OCS_IN Pin=X?-2
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=mcu Member=Component C? Cap_Cer_0603_0.1uF_25V
+Added Member To Class: ClassName=mcu Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=mcu Member=Component R? 0603
+Added Member To Class: ClassName=mcu Member=Component X? 8Mhz

@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=mcu Member=R22
+Removed Member From Class: ClassName=channel_1 Member=R27
+Removed Member From Class: ClassName=channel_2 Member=R58
+Removed Member From Class: ClassName=channel_2 Member=R60
+Removed Member From Class: ClassName=channel_2 Member=R61
+Removed Member From Class: ClassName=channel_2 Member=R62
+Removed Member From Class: ClassName=channel_2 Member=R64
+Removed Member From Class: ClassName=channel_2 Member=R65
+Removed Member From Class: ClassName=channel_45678 Member=R82
+Removed Member From Class: ClassName=channel_45678 Member=R90
+Removed Member From Class: ClassName=channel_45678 Member=R92
+Removed Member From Class: ClassName=channel_45678 Member=R93
+Removed Member From Class: ClassName=channel_45678 Member=R94
+Added Member To Class: ClassName=mcu Member=Component R24 0R
+Added Member To Class: ClassName=mcu Member=Component R28 10k
+Added Member To Class: ClassName=channel_1 Member=Component R29 100k
+Added Member To Class: ClassName=channel_1 Member=Component R38 10k
+Added Member To Class: ClassName=channel_1 Member=Component R39 62k
+Added Member To Class: ClassName=channel_1 Member=Component R45 100k
+Added Member To Class: ClassName=channel_1 Member=Component R49 12k
+Added Member To Class: ClassName=channel_1 Member=Component R56 470R
+Added Member To Class: ClassName=channel_1 Member=Component R59 18k
+Added Member To Class: ClassName=channel_1 Member=Component R63 100k
+Added Member To Class: ClassName=channel_2 Member=Component R67 62k
+Added Member To Class: ClassName=channel_2 Member=Component R69 30k
+Added Member To Class: ClassName=channel_2 Member=Component R70 10k
+Added Member To Class: ClassName=channel_2 Member=Component R71 30k
+Added Member To Class: ClassName=channel_2 Member=Component R73 10k
+Added Member To Class: ClassName=channel_2 Member=Component R74 20k
+Added Member To Class: ClassName=channel_2 Member=Component R75 16k
+Added Member To Class: ClassName=channel_2 Member=Component R77 20k
+Added Member To Class: ClassName=channel_2 Member=Component R79 3.3k
+Added Member To Class: ClassName=channel_2 Member=Component R81 160k
+Added Member To Class: ClassName=channel_2 Member=Component R89 30k
+Added Member To Class: ClassName=channel_2 Member=Component R91 20k
+Added Member To Class: ClassName=channel_2 Member=Component R96 3.3k
+Added Member To Class: ClassName=channel_45678 Member=Component R99 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R100 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R101 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R102 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R103 10k
+Added Room: Name=channel_1
+Added Room: Name=channel_2
+Added Room: Name=channel_45678
+Added Room: Name=mcu

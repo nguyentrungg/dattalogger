@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CS_SDCARD Pin=R14-1
+Removed Pin From Net: NetName=+3.3 Pin=R14-2
+Removed Pin From Net: NetName=MISO_SDCARD Pin=R15-1
+Removed Pin From Net: NetName=+3.3 Pin=R15-2
+Removed Pin From Net: NetName=CARD_DETECT Pin=R16-1
+Removed Pin From Net: NetName=+3.3 Pin=R16-2
+Removed Member From Class: ClassName=sd_card Member=R14
+Removed Member From Class: ClassName=sd_card Member=R15
+Removed Member From Class: ClassName=sd_card Member=R16
+Added Pin To Net: NetName=CARD_DETECT Pin=IC1-46

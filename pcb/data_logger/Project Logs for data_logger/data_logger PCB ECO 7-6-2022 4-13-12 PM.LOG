@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=Net*2_13 Pin=*2-13
+Added Pin To Net: NetName=Net*2_13 Pin=ADG1-1
+Added Pin To Net: NetName=Net*2_13 Pin=ADG2-1
+Added Net: Name=Net*2_13
+Added Pin To Net: NetName=Net*2_14 Pin=*2-14
+Added Pin To Net: NetName=Net*2_14 Pin=ADG1-16
+Added Pin To Net: NetName=Net*2_14 Pin=ADG2-16
+Added Net: Name=Net*2_14
+Added Pin To Net: NetName=Net*2_15 Pin=*2-15
+Added Pin To Net: NetName=Net*2_15 Pin=ADG1-15
+Added Pin To Net: NetName=Net*2_15 Pin=ADG2-15
+Added Net: Name=Net*2_15

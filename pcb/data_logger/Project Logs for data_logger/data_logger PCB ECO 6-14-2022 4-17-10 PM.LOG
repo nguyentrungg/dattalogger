@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=L2-2
+Removed Pin From Net: NetName=+3.3 Pin=R22-2
+Removed Member From Class: ClassName=pga Member=L2
+Removed Member From Class: ClassName=pga Member=R22

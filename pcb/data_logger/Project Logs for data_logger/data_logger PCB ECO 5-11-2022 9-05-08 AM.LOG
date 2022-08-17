@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=OCS_OUT Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=OCS_IN Pin=C?-1
+Added Pin To Net: NetName=OCS_OUT Pin=C?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=C?-2
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=mcu Member=Component C?
+Added Member To Class: ClassName=mcu Member=Component C? Cap_Cer_0603_0.1uF_25V
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=mcu Member=Component R? 0603

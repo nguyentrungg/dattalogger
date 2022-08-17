@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\trung\Documents\Project_3\pcb\data_logger\data_logger.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=data_logger-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=data_logger-slotholes.txt|DrillLayers=gtl,gbl

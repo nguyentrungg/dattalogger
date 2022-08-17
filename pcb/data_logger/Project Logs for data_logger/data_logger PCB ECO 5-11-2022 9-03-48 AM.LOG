@@ -1,0 +1,128 @@
+Added Component: Designator=BT?(BUTTON_2P_SMD)
+Add component (AddParameter): Name = "Description SEL"; Value = "BUTTON_2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S2000-000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PTS636 SM25F SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BUTTON_2P"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(LQFP48)
+Add component (AddParameter): Name = "Description SEL"; Value = "MCU 32BIT Cortex M3, 64KB 20KB RAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1005-000007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Added Component: Designator=J?(JUMP_1X5)
+Add component (AddParameter): Name = "Description SEL"; Value = "Header_5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 10K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0603)
+Add component (AddParameter): Name = "Description SEL"; Value = "RES 10K OHM 1% 1/10W 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1100-000043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=+3.3 Pin=J?-4
+Added Pin To Net: NetName=+3.3 Pin=J?-5
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=C?-2
+Added Pin To Net: NetName=NetBT?_1 Pin=IC?-7
+Added Pin To Net: NetName=NetBT?_1 Pin=R?-1
+Added Net: Name=NetBT?_1
+Added Pin To Net: NetName=NetIC?_44 Pin=IC?-44
+Added Pin To Net: NetName=NetIC?_44 Pin=R?-1
+Added Net: Name=NetIC?_44
+Added Pin To Net: NetName=OCS_IN Pin=C?-1
+Added Pin To Net: NetName=OCS_IN Pin=IC?-5
+Added Net: Name=OCS_IN
+Added Pin To Net: NetName=OCS_OUT Pin=C?-1
+Added Pin To Net: NetName=OCS_OUT Pin=IC?-6
+Added Net: Name=OCS_OUT
+Added Pin To Net: NetName=RXD Pin=J?-2
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=J?-3
+Added Net: Name=TXD
+Added Class: Name=mcu
+Added Class: Name=uart_to_usb
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component BT? Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component C? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Member To Class: ClassName=button Member=Component R? 0603
+Added Room: Name=mcu
+Added Room: Name=uart_to_usb

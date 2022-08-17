@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=pga Member=C2
+Removed Member From Class: ClassName=real_time_clock Member=JP3
+Added Member To Class: ClassName=pga Member=Component C4 0603
+Added Member To Class: ClassName=pga Member=Component C5 0603
+Added Member To Class: ClassName=pga Member=Component C14 0603
+Added Member To Class: ClassName=pga Member=Component C15 0603
+Added Member To Class: ClassName=uart_to_usb Member=Component C22 22pF
+Added Member To Class: ClassName=mcu Member=Component C26 0603
+Added Member To Class: ClassName=mcu Member=Component C27 0603
+Added Member To Class: ClassName=8_channels Member=Component C34 104

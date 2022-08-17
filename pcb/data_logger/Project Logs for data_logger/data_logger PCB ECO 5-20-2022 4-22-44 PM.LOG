@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Netchannel3_2 Pin=F1-1
+Removed Pin From Net: NetName=Netchannel3_2 Pin=F1-1
+Removed Member From Class: ClassName=8_channels Member=F1
+Added Pin To Net: NetName=Netchannel3_2 Pin=IC1-1
+Added Pin To Net: NetName=Netchannel3_2 Pin=IC1-2

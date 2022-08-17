@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=left1 Pin=*2-10
+Removed Pin From Net: NetName=left2 Pin=*2-11
+Removed Pin From Net: NetName=left3 Pin=*2-12
+Removed Pin From Net: NetName=left4 Pin=*2-13
+Removed Pin From Net: NetName=right1 Pin=*2-14
+Removed Pin From Net: NetName=right2 Pin=*2-15
+Removed Pin From Net: NetName=right3 Pin=*2-16
+Removed Pin From Net: NetName=right4 Pin=*2-17
+Added Pin To Net: NetName=right4 Pin=*2-30
+Added Pin To Net: NetName=right3 Pin=*2-31
+Added Pin To Net: NetName=right2 Pin=*2-32
+Added Pin To Net: NetName=right1 Pin=*2-33
+Added Pin To Net: NetName=left1 Pin=*2-38
+Added Pin To Net: NetName=left2 Pin=*2-39
+Added Pin To Net: NetName=left3 Pin=*2-40
+Added Pin To Net: NetName=left4 Pin=*2-41
+Added Member To Class: ClassName=mcu Member=Component C27 0603

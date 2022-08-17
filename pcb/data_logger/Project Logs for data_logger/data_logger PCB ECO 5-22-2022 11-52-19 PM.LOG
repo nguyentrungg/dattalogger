@@ -1,0 +1,18 @@
+Added Member To Class: ClassName=8_channels Member=Component channel4 CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=8_channels Member=Component channel6 CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=8_channels Member=Component channel8 CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=8_channels Member=Component R30 10k
+Added Member To Class: ClassName=8_channels Member=Component R31 10k
+Added Member To Class: ClassName=8_channels Member=Component R32 10k
+Added Member To Class: ClassName=8_channels Member=Component R34 2k
+Added Member To Class: ClassName=8_channels Member=Component R36 1k
+Added Member To Class: ClassName=8_channels Member=Component R37 10k
+Added Member To Class: ClassName=8_channels Member=Component R38 1k
+Added Member To Class: ClassName=8_channels Member=Component R40 10k
+Added Member To Class: ClassName=8_channels Member=Component R42 15k
+Added Member To Class: ClassName=8_channels Member=Component R43 1M2
+Added Member To Class: ClassName=8_channels Member=Component R44 1M2
+Added Member To Class: ClassName=8_channels Member=Component R46 1M2
+Added Member To Class: ClassName=8_channels Member=Component R48 2k2
+Added Room: Name=8_channels
+Added Room: Name=button

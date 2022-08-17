@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=2.5 Pin=R89-2
+Added Pin To Net: NetName=+5 Pin=R89-2
+Added Member To Class: ClassName=channel_1 Member=Component *9 SI2302
+Added Member To Class: ClassName=channel_1 Member=Component *10 SI2301
+Added Member To Class: ClassName=channel_1 Member=Component *11 LMV321
+Added Member To Class: ClassName=channel_2 Member=Component *13 LMV321
+Added Member To Class: ClassName=channel_2 Member=Component ADG3 ADG708
+Added Member To Class: ClassName=channel_1 Member=Component H1 Header 2P 2.54 Duc Thang
+Added Member To Class: ClassName=mcu Member=Component R26 0R
+Added Member To Class: ClassName=mcu Member=Component R27 0R
+Added Member To Class: ClassName=mcu Member=Component R28 0R
+Added Member To Class: ClassName=channel_1 Member=Component R45 3k
+Added Member To Class: ClassName=channel_1 Member=Component R50 18k
+Added Member To Class: ClassName=channel_1 Member=Component R60 1k
+Added Member To Class: ClassName=channel_1 Member=Component R61 47k
+Added Member To Class: ClassName=channel_1 Member=Component R62 3k
+Added Member To Class: ClassName=channel_1 Member=Component R63 100k
+Added Member To Class: ClassName=channel_1 Member=Component R64 62k
+Added Member To Class: ClassName=channel_1 Member=Component R70 24k
+Added Member To Class: ClassName=channel_1 Member=Component R73 240k
+Added Member To Class: ClassName=channel_2 Member=Component R82 10k
+Added Member To Class: ClassName=channel_2 Member=Component R86 20k
+Added Member To Class: ClassName=channel_2 Member=Component R95 20k
+Added Member To Class: ClassName=channel_2 Member=Component R101 10k
+Added Room: Name=channel_3

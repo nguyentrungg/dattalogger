@@ -1,0 +1,12 @@
+Change Net Color : Old Net Color=RGB(101, 103, 100) New Net Color=Default
+Added Member To Class: ClassName=pga Member=Component JP2 JP 1x16 2.54
+Added Room: Name=channel_1
+Added Room: Name=channel_2
+Added Room: Name=channel_3
+Added Room: Name=channel_45678
+Added Room: Name=mcu
+Added Room: Name=pga
+Added Room: Name=power_supply
+Added Room: Name=real_time_clock
+Added Room: Name=sd_card
+Added Room: Name=uart_to_usb

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=2.5 Pin=*8-2
+Removed Pin From Net: NetName=2.5 Pin=R77-2
+Added Pin To Net: NetName=2.5_1 Pin=*8-2
+Added Pin To Net: NetName=2.5_1 Pin=R77-2
+Added Net: Name=2.5_1

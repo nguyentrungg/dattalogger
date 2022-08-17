@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=+3.3 Pin=*5-1
+Removed Member From Class: ClassName=sd_card Member=C17
+Removed Member From Class: ClassName=mcu Member=C21
+Removed Member From Class: ClassName=8_channels Member=C28
+Removed Member From Class: ClassName=pga Member=JP1
+Removed Member From Class: ClassName=sd_card Member=R22
+Removed Member From Class: ClassName=8_channels Member=R26
+Added Component: Designator=R?(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 0R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=Net*5_7 Pin=R?-1
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=Net*5_1 Pin=*5-1
+Added Pin To Net: NetName=Net*5_1 Pin=R?-2
+Added Net: Name=Net*5_1
+Added Pin To Net: NetName=Net*5_35 Pin=*5-35
+Added Pin To Net: NetName=Net*5_35 Pin=R?-2
+Added Net: Name=Net*5_35
+Added Pin To Net: NetName=Net*5_36 Pin=*5-36
+Added Pin To Net: NetName=Net*5_36 Pin=R?-1
+Added Net: Name=Net*5_36
+Added Member To Class: ClassName=sd_card Member=Component C18 104
+Added Member To Class: ClassName=uart_to_usb Member=Component C20 22pF
+Added Member To Class: ClassName=mcu Member=Component C22 0603
+Added Member To Class: ClassName=mcu Member=Component C25 0603
+Added Member To Class: ClassName=mcu Member=Component C27 0603
+Added Member To Class: ClassName=8_channels Member=Component C29 0.1uF
+Added Member To Class: ClassName=8_channels Member=Component C31 1nF
+Added Member To Class: ClassName=8_channels Member=Component C33 104
+Added Member To Class: ClassName=pga Member=Component JP2 JP 1x16 2.54
+Added Member To Class: ClassName=sd_card Member=Component R23 27R
+Added Member To Class: ClassName=uart_to_usb Member=Component R25 1k
+Added Member To Class: ClassName=8_channels Member=Component R27 5.1k
+Added Member To Class: ClassName=8_channels Member=Component R29 100k
+Added Member To Class: ClassName=8_channels Member=Component R31 470R
+Added Member To Class: ClassName=8_channels Member=Component R32 1k
+Added Member To Class: ClassName=8_channels Member=Component R34 1k
+Added Member To Class: ClassName=8_channels Member=Component R36 47k
+Added Member To Class: ClassName=8_channels Member=Component R38 10k
+Added Member To Class: ClassName=8_channels Member=Component R40 470R
+Added Member To Class: ClassName=8_channels Member=Component R42 18k
+Added Member To Class: ClassName=8_channels Member=Component R44 24k
+Added Member To Class: ClassName=8_channels Member=Component R46 100k
+Added Member To Class: ClassName=8_channels Member=Component R48 12k
+Added Member To Class: ClassName=8_channels Member=Component R50 10k
+Added Member To Class: ClassName=8_channels Member=Component R52 10k
+Added Member To Class: ClassName=8_channels Member=Component R54 1k
+Added Member To Class: ClassName=8_channels Member=Component R56 3k
+Added Member To Class: ClassName=8_channels Member=Component R58 62k
+Added Member To Class: ClassName=8_channels Member=Component R60 10k
+Added Member To Class: ClassName=8_channels Member=Component R62 10k
+Added Member To Class: ClassName=8_channels Member=Component R64 10k
+Added Member To Class: ClassName=8_channels Member=Component R65 1k
+Added Member To Class: ClassName=8_channels Member=Component R68 100k
+Added Member To Class: ClassName=8_channels Member=Component R70 10k
+Added Member To Class: ClassName=8_channels Member=Component R72 100k
+Added Member To Class: ClassName=8_channels Member=Component R74 240k
+Added Member To Class: ClassName=8_channels Member=Component R76 10k
+Added Member To Class: ClassName=8_channels Member=Component R78 10k
+Added Member To Class: ClassName=8_channels Member=Component R80 470R
+Added Member To Class: ClassName=8_channels Member=Component R82 24k
+Added Member To Class: ClassName=8_channels Member=Component R84 5.1k
+Added Member To Class: ClassName=8_channels Member=Component R86 3k
+Added Member To Class: ClassName=8_channels Member=Component R88 62k
+Added Member To Class: ClassName=8_channels Member=Component R90 10k
+Added Member To Class: ClassName=8_channels Member=Component R92 18k
+Added Member To Class: ClassName=8_channels Member=Component R94 100k
+Added Member To Class: ClassName=8_channels Member=Component R96 100k
+Added Member To Class: ClassName=8_channels Member=Component R98 12k
+Added Member To Class: ClassName=8_channels Member=Component R100 240k
+Added Member To Class: ClassName=8_channels Member=Component R102 24k
+Added Member To Class: ClassName=8_channels Member=Component R104 47k
+Added Member To Class: ClassName=8_channels Member=Component R106 100k
+Added Member To Class: ClassName=8_channels Member=Component R108 470R
+Added Member To Class: ClassName=8_channels Member=Component R110 1k
+Added Member To Class: ClassName=8_channels Member=Component R113 10k
+Added Member To Class: ClassName=8_channels Member=Component R116 100k
+Added Member To Class: ClassName=8_channels Member=Component R118 240k
+Added Member To Class: ClassName=mcu Member=Component R? 10k
+Added Member To Class: ClassName=mcu Member=Component R? 0R
+Added Member To Class: ClassName=mcu Member=Component R? 0R
+Added Member To Class: ClassName=mcu Member=Component R? 0R

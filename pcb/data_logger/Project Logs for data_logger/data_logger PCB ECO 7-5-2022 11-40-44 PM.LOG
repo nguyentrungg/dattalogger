@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R29 Old Footprint=tro smd 2512 New Footprint=tro smd 0603
+Change Component Footprint: Designator=R57 Old Footprint=tro smd 2512 New Footprint=tro smd 0603
+Added Room: Name=channel_1
+Added Room: Name=channel_2
+Added Room: Name=channel_3
+Added Room: Name=channel_45678
+Added Room: Name=mcu
+Added Room: Name=pga
+Added Room: Name=power_supply
+Added Room: Name=real_time_clock
+Added Room: Name=sd_card
+Added Room: Name=uart_to_usb

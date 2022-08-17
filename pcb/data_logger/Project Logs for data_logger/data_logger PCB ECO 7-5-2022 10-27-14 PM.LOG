@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=+3.3 Pin=R22-2
+Removed Member From Class: ClassName=pga Member=Q1
+Removed Member From Class: ClassName=pga Member=R22
+Removed Member From Class: ClassName=pga Member=R23
+Added Pin To Net: NetName=GND Pin=JP2-16
+Change Net Name : Old Net Name=detect_4 New Net Name=NetH4_2
+Change Net Name : Old Net Name=detect_5 New Net Name=NetH5_2
+Change Net Name : Old Net Name=detect_6 New Net Name=NetH6_2
+Change Net Name : Old Net Name=detect_7 New Net Name=NetH7_2
+Change Net Name : Old Net Name=detect_8 New Net Name=NetH8_2

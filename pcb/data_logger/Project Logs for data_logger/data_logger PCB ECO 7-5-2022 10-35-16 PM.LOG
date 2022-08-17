@@ -1,0 +1,160 @@
+Change Component Designator: OldDesignator=*8 NewDesignator=*6
+Change Component Designator: OldDesignator=*11 NewDesignator=*7
+Change Component Designator: OldDesignator=*12 NewDesignator=*8
+Change Component Designator: OldDesignator=*13 NewDesignator=*9
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R23
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Change Component Designator: OldDesignator=R29 NewDesignator=R27
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R34 NewDesignator=R29
+Change Component Designator: OldDesignator=R37 NewDesignator=R30
+Change Component Designator: OldDesignator=R38 NewDesignator=R31
+Change Component Designator: OldDesignator=R39 NewDesignator=R32
+Change Component Designator: OldDesignator=R40 NewDesignator=R33
+Change Component Designator: OldDesignator=R41 NewDesignator=R34
+Change Component Designator: OldDesignator=R42 NewDesignator=R35
+Change Component Designator: OldDesignator=R44 NewDesignator=R36
+Change Component Designator: OldDesignator=R45 NewDesignator=R37
+Change Component Designator: OldDesignator=R46 NewDesignator=R38
+Change Component Designator: OldDesignator=R47 NewDesignator=R39
+Change Component Designator: OldDesignator=R48 NewDesignator=R40
+Change Component Designator: OldDesignator=R49 NewDesignator=R41
+Change Component Designator: OldDesignator=R50 NewDesignator=R42
+Change Component Designator: OldDesignator=R51 NewDesignator=R43
+Change Component Designator: OldDesignator=R52 NewDesignator=R44
+Change Component Designator: OldDesignator=R53 NewDesignator=R45
+Change Component Designator: OldDesignator=R54 NewDesignator=R46
+Change Component Designator: OldDesignator=R55 NewDesignator=R49
+Change Component Designator: OldDesignator=R56 NewDesignator=R50
+Change Component Designator: OldDesignator=R57 NewDesignator=R47
+Change Component Designator: OldDesignator=R58 NewDesignator=R48
+Change Component Designator: OldDesignator=R59 NewDesignator=R51
+Change Component Designator: OldDesignator=R60 NewDesignator=R52
+Change Component Designator: OldDesignator=R61 NewDesignator=R53
+Change Component Designator: OldDesignator=R62 NewDesignator=R54
+Change Component Designator: OldDesignator=R63 NewDesignator=R57
+Change Component Designator: OldDesignator=R64 NewDesignator=R55
+Change Component Designator: OldDesignator=R65 NewDesignator=R56
+Change Component Designator: OldDesignator=R67 NewDesignator=R58
+Change Component Designator: OldDesignator=R68 NewDesignator=R59
+Change Component Designator: OldDesignator=R69 NewDesignator=R60
+Change Component Designator: OldDesignator=R70 NewDesignator=R61
+Change Component Designator: OldDesignator=R71 NewDesignator=R62
+Change Component Designator: OldDesignator=R72 NewDesignator=R63
+Change Component Designator: OldDesignator=R73 NewDesignator=R64
+Change Component Designator: OldDesignator=R74 NewDesignator=R65
+Change Component Designator: OldDesignator=R75 NewDesignator=R66
+Change Component Designator: OldDesignator=R76 NewDesignator=R67
+Change Component Designator: OldDesignator=R77 NewDesignator=R68
+Change Component Designator: OldDesignator=R78 NewDesignator=R69
+Change Component Designator: OldDesignator=R79 NewDesignator=R70
+Change Component Designator: OldDesignator=R80 NewDesignator=R71
+Change Component Designator: OldDesignator=R81 NewDesignator=R72
+Change Component Designator: OldDesignator=R82 NewDesignator=R73
+Change Component Designator: OldDesignator=R83 NewDesignator=R74
+Change Component Designator: OldDesignator=R84 NewDesignator=R75
+Change Component Designator: OldDesignator=R85 NewDesignator=R76
+Change Component Designator: OldDesignator=R86 NewDesignator=R77
+Change Component Designator: OldDesignator=R87 NewDesignator=R78
+Change Component Designator: OldDesignator=R88 NewDesignator=R79
+Change Component Designator: OldDesignator=R89 NewDesignator=R80
+Change Component Designator: OldDesignator=R90 NewDesignator=R81
+Change Component Designator: OldDesignator=R91 NewDesignator=R82
+Change Component Designator: OldDesignator=R92 NewDesignator=R83
+Change Component Designator: OldDesignator=R93 NewDesignator=R84
+Change Component Designator: OldDesignator=R94 NewDesignator=R85
+Change Component Designator: OldDesignator=R95 NewDesignator=R86
+Change Component Designator: OldDesignator=R96 NewDesignator=R87
+Change Component Designator: OldDesignator=R97 NewDesignator=R88
+Change Component Designator: OldDesignator=R98 NewDesignator=R89
+Change Component Designator: OldDesignator=R99 NewDesignator=R90
+Change Component Designator: OldDesignator=R100 NewDesignator=R91
+Change Component Designator: OldDesignator=R101 NewDesignator=R92
+Change Component Designator: OldDesignator=R102 NewDesignator=R93
+Change Component Designator: OldDesignator=R103 NewDesignator=R94
+Change Component Designator: OldDesignator=R104 NewDesignator=R95
+Change Component Designator: OldDesignator=R105 NewDesignator=R96
+Change Component Designator: OldDesignator=R112 NewDesignator=R97
+Change Component Designator: OldDesignator=R113 NewDesignator=R98
+Added Component: Designator=R99(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R100(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R101(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R102(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R103(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R99-1
+Added Pin To Net: NetName=NetH4_2 Pin=R99-2
+Added Pin To Net: NetName=GND Pin=R100-1
+Added Pin To Net: NetName=NetH5_2 Pin=R100-2
+Added Pin To Net: NetName=GND Pin=R101-1
+Added Pin To Net: NetName=NetH6_2 Pin=R101-2
+Added Pin To Net: NetName=GND Pin=R102-1
+Added Pin To Net: NetName=NetH7_2 Pin=R102-2
+Added Pin To Net: NetName=GND Pin=R103-1
+Added Pin To Net: NetName=NetH8_2 Pin=R103-2
+Change Net Name : Old Net Name=Net*11_1 New Net Name=Net*7_1
+Change Net Name : Old Net Name=Net*11_4 New Net Name=Net*7_4
+Change Net Name : Old Net Name=Net*13_1 New Net Name=Net*9_1
+Change Net Name : Old Net Name=Net*13_3 New Net Name=Net*9_3
+Change Net Name : Old Net Name=Net*13_4 New Net Name=Net*9_4
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR40_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR47_2 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetR49_2 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetR51_1 New Net Name=NetR43_1
+Change Net Name : Old Net Name=NetR53_1 New Net Name=NetR45_1
+Change Net Name : Old Net Name=NetR55_2 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR47_1
+Change Net Name : Old Net Name=NetR59_2 New Net Name=NetR51_2
+Change Net Name : Old Net Name=NetR61_2 New Net Name=NetR53_2
+Change Net Name : Old Net Name=NetR64_2 New Net Name=NetR55_2
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR58_2
+Change Net Name : Old Net Name=NetR69_1 New Net Name=NetR60_1
+Change Net Name : Old Net Name=NetR71_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR73_1 New Net Name=NetR64_1
+Change Net Name : Old Net Name=NetR76_2 New Net Name=NetR67_2
+Change Net Name : Old Net Name=NetR78_2 New Net Name=NetR69_2
+Change Net Name : Old Net Name=NetR80_2 New Net Name=NetR71_2
+Change Net Name : Old Net Name=NetR87_2 New Net Name=NetR78_2
+Change Net Name : Old Net Name=NetR92_2 New Net Name=NetR83_2
+Change Net Name : Old Net Name=NetR96_2 New Net Name=NetR87_2
+Change Net Name : Old Net Name=NetR98_2 New Net Name=NetR89_2
+Change Net Name : Old Net Name=NetR104_2 New Net Name=NetR95_2
+Added Member To Class: ClassName=channel_45678 Member=Component R99 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R100 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R101 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R102 10k
+Added Member To Class: ClassName=channel_45678 Member=Component R103 10k
